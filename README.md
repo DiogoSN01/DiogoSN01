@@ -1,3 +1,8 @@
+<h2 align="center">👨🏻‍💻 About me:</h2>
+<p align="justify">I am a Computer Science student passionate about technology. My current focus is on mastering the full stack.
+Driven by curiosity, I enjoy solving complex problems and continuously seek opportunities to improve my skills.</p>
+<p align="center">
+</p>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiogoSN01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
