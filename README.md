@@ -1,5 +1,5 @@
 <h2 align="left">About me:</h2>
-<p align="justify">I am a Computer Science student passionate about technology. My current focus is on mastering the full stack.
+<p align="justify">I'm a Computer Science student passionate about technology. My current focus is on mastering the full stack.
 Driven by curiosity, I enjoy solving complex problems and continuously seek opportunities to improve my skills.</p>
 <p align="center">
 </p>
